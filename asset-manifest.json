@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/is-today-international-josh-day/static/css/main.5d053251.chunk.css",
+    "main.js": "/is-today-international-josh-day/static/js/main.8aa58a5d.chunk.js",
+    "main.js.map": "/is-today-international-josh-day/static/js/main.8aa58a5d.chunk.js.map",
+    "runtime-main.js": "/is-today-international-josh-day/static/js/runtime-main.dcdf97af.js",
+    "runtime-main.js.map": "/is-today-international-josh-day/static/js/runtime-main.dcdf97af.js.map",
+    "static/js/2.5e02d46f.chunk.js": "/is-today-international-josh-day/static/js/2.5e02d46f.chunk.js",
+    "static/js/2.5e02d46f.chunk.js.map": "/is-today-international-josh-day/static/js/2.5e02d46f.chunk.js.map",
+    "index.html": "/is-today-international-josh-day/index.html",
+    "precache-manifest.11e30f544f1fab8d36d35c0538bba83f.js": "/is-today-international-josh-day/precache-manifest.11e30f544f1fab8d36d35c0538bba83f.js",
+    "service-worker.js": "/is-today-international-josh-day/service-worker.js",
+    "static/css/main.5d053251.chunk.css.map": "/is-today-international-josh-day/static/css/main.5d053251.chunk.css.map",
+    "static/js/2.5e02d46f.chunk.js.LICENSE.txt": "/is-today-international-josh-day/static/js/2.5e02d46f.chunk.js.LICENSE.txt",
+    "static/media/josh.jpg": "/is-today-international-josh-day/static/media/josh.d4fced9a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcdf97af.js",
+    "static/js/2.5e02d46f.chunk.js",
+    "static/css/main.5d053251.chunk.css",
+    "static/js/main.8aa58a5d.chunk.js"
+  ]
+}
